@@ -11,4 +11,5 @@ namespace SingleToDoWebApp.Models
 
         public DbSet<ToDoStatement> ToDoStatements { get; set; }
     }
+
 }
