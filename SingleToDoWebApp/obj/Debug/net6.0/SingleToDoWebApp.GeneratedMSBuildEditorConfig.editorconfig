@@ -32,6 +32,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/C\# Projects/Single-ToDO-WebApp/SingleToDoWebApp/Views/ToDoStatements/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb1N0YXRlbWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Projects/Single-ToDO-WebApp/SingleToDoWebApp/Views/ToDoStatements/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb1N0YXRlbWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Projects/Single-ToDO-WebApp/SingleToDoWebApp/Views/ToDoStatements/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb1N0YXRlbWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Projects/Single-ToDO-WebApp/SingleToDoWebApp/Views/ToDoStatements/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb1N0YXRlbWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Projects/Single-ToDO-WebApp/SingleToDoWebApp/Views/ToDoStatements/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb1N0YXRlbWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/C\# Projects/Single-ToDO-WebApp/SingleToDoWebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
