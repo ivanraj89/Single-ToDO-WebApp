@@ -55,7 +55,7 @@ namespace SingleToDoWebApp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("TaskId,ToDo,date")] ToDoStatement toDoStatement)
+        public async Task<IActionResult> Create([Bind("ToDo,date")] ToDoStatement toDoStatement)
         {
             if (ModelState.IsValid)
             {
